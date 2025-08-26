@@ -1,7 +1,7 @@
 # <p align="center">🏳️‍⚧️ About Me 🏳️‍⚧️</p>
 
 <p align="center">
-  Hello World, I'm <strong>fufu :3</strong><br>
+  Hello World, I'm <strong>Evelyn :3</strong><br>
   I'm a self-taught <strong>programmer</strong> and <strong>designer</strong> from Thailand. 💻✨<br>
   I am 15 years old, and my pronouns are <strong>she/her 🏳️‍⚧️💗</strong>!
 </p>
