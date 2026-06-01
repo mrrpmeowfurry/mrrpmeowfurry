@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mineriftmc">
+  <a href="https://github.com/cometclient">
     <img src="https://img.shields.io/badge/dev-cometclient.dev-8b5cf6?style=flat-square" />
   </a>
   <a href="https://github.com/mineriftmc">
