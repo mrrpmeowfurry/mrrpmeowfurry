@@ -1,7 +1,7 @@
-<h1 align="center">puppygirlmmph@angel:~$</h1>
+<h1 align="center">lilyNerdy@angel:~$</h1>
 
 <p align="center">
-  hi, i'm <b>evelyn</b>
+  hi, i'm <b>lily</b>
   <br>
   she/it 🏳️‍⚧️ | just a dumb puppygirl that can't think
 </p>
@@ -12,9 +12,6 @@
   </a>
   <a href="https://discord.com/users/1351765478690918402">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://t.me/mrrpmeowfurry">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
