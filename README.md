@@ -3,7 +3,7 @@
 <p align="center">
   hi, i'm <b>lily</b>
   <br>
-  she/it 🏳️‍⚧️ | just a dumb puppygirl that can't think
+  it/its 🏳️‍⚧️ | dumb puppy thing,,
 </p>
 
 <p align="center">
