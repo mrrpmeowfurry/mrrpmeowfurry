@@ -1,4 +1,4 @@
-<h1 align="center">lilyNerdy@angel:~$</h1>
+<h1 align="center">lily@pawtism:~$</h1>
 
 <p align="center">
   hi, i'm <b>lily</b>
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pronouns.page/@mrrpmeowfurry">
+  <a href="https://en.pronouns.page/@lilynonbinary">
     <img src="https://img.shields.io/badge/Pronouns.page-ff69b4?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://discord.com/users/1351765478690918402">
@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-  "fuck you if you hate femtanyl or lucyen"
+  "o/"
 </p>
